@@ -1,2 +1,2 @@
-# calculator-1
-A webpage calculator I learned from youtube
+# Calculator-1
+HTML, CSS, Javascript
